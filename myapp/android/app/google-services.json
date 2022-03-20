@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "206603809484",
+    "project_id": "myapp-sharesound",
+    "storage_bucket": "myapp-sharesound.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206603809484:android:dae50a5a494cc7ff990869",
+        "android_client_info": {
+          "package_name": "com.example.testapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206603809484-c02ip4ij86viq3ub2vpb1epnl4r5of42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSW5keQHJ1ev3SMlo3TI3xOV5fR5Q00_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206603809484-c02ip4ij86viq3ub2vpb1epnl4r5of42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
